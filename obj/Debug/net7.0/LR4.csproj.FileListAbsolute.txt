@@ -1,0 +1,152 @@
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.AssemblyInfo.cs
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.RazorAssemblyInfo.cache
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.RazorAssemblyInfo.cs
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\appsettings.json
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\LR4.staticwebassets.runtime.json
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\LR4.exe
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\LR4.deps.json
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\LR4.runtimeconfig.json
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\LR4.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\LR4.pdb
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.LR4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.build.LR4.props
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LR4.props
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LR4.props
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\scopedcss\bundle\LR4.styles.css
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\scopedcss\projectbundle\LR4.bundle.scp.css
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.csproj.CopyComplete
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.dll
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\refint\LR4.dll
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.pdb
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\LR4.genruntimeconfig.cache
+C:\Users\Home\source\repos\LR3\LR3\obj\Debug\net7.0\ref\LR4.dll
+C:\Users\Home\source\repos\LR3\LR3\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\appsettings.Development.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\appsettings.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\LR4.staticwebassets.runtime.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\LR4.exe
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\LR4.deps.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\LR4.runtimeconfig.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\LR4.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\LR4.pdb
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Azure.Core.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Azure.Identity.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Humanizer.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.CodeDom.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.csproj.AssemblyReference.cache
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.AssemblyInfoInputs.cache
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.AssemblyInfo.cs
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.csproj.CoreCompileInputs.cache
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.MvcApplicationPartsAssemblyInfo.cache
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.RazorAssemblyInfo.cache
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.RazorAssemblyInfo.cs
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.LR4.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.build.LR4.props
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LR4.props
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LR4.props
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\staticwebassets.build.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\staticwebassets.development.json
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\scopedcss\bundle\LR4.styles.css
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\scopedcss\projectbundle\LR4.bundle.scp.css
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.csproj.CopyComplete
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\refint\LR4.dll
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.pdb
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\LR4.genruntimeconfig.cache
+D:\ХНУ\3\Інтернет\Лабораторна робота 6\LR3\LR3\obj\Debug\net7.0\ref\LR4.dll

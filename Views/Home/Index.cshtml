@@ -1,0 +1,85 @@
+﻿@using LR4.Entities
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Головна";
+}
+
+<h1>Список продуктів</h1>
+@if (User.Identity.IsAuthenticated && User.IsInRole(Roles.Admin))
+{
+    Html.ActionLink("Створити продукт", "CreateProduct", "Home", null, new { @class = "btn btn-success mt-3" });
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Назва</th>
+            <th scope="col">Опис</th>
+            <th scope="col">Розміри</th>
+            <th scope="col">Тип</th>
+            <th scope="col">Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <th scope="row">@product.Id</th>
+                <td>@product.Title</td>
+                <td>@product.Description</td>
+                <td>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Символ</th>
+                                <th scope="col">Ціна</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var size in product.Sizes)
+                            {
+                                <tr>
+                                <td>@size.SizeSybmol</td>
+                                <td>@size.Price</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    @switch (product.ProductType)
+                    {
+                        case ProductType.Dress:
+                            <p>Сукня</p>
+                            break;
+                        case ProductType.Jeans:
+                            <p>Джинси</p>
+                            break;
+                        case ProductType.Tshirt:
+                            <p>Футболка</p>
+                            break;
+                        case ProductType.Coat:
+                            <p>Пальто</p>
+                            break;
+                        case ProductType.Jacket:
+                            <p>Куртка</p>
+                            break;
+                        case ProductType.DownJacket:
+                            <p>Пуховик</p>
+                            break;
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Переглянути", "GetProduct", "Home", new { id = product.Id }, new { @class = "btn btn-primary" })
+                    @if (User.Identity.IsAuthenticated && User.IsInRole(Roles.Admin))
+                    {
+                        @Html.ActionLink("Змінити", "GetModifyProduct", "Home", new { id = product.Id }, new { @class = "btn btn-success" })
+                        @Html.ActionLink("Видалити", "DeleteProduct", "Home", new { id = product.Id }, new { @class = "btn btn-danger" })
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

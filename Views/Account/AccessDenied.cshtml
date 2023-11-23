@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Access denied";
+}
+
+<div class="container mt-5" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <div class="row">
+        <div class="col-md-6 offset-md-3 d-flex align-items-center justify-content-center">
+            <div class="alert alert-danger">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <h1>403 - Unauthorized</h1>
+                } else
+                {
+                    <h1>401 - Unauthorized</h1>
+                }
+                <h2>Access Denied</h2>
+                <p>You do not have access to this page</p>
+            </div>
+        </div>
+    </div>
+</div>

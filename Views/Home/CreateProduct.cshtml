@@ -1,0 +1,75 @@
+﻿@using LR4.Entities
+@model Product
+
+@{
+    ViewData["Title"] = "Створити продукт";
+}
+<h1>@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("CreateProduct", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-group">
+        @Html.LabelFor(model => model.Title)
+        @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(model => model.Description)
+        @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+    </div>
+    
+    <div class="form-group">
+        <p class="mt-3">Виберіть типу продукту</p>
+        @Html.DropDownList("ProductType", Html.GetEnumSelectList(typeof(ProductType)), "Тип продукту", new { @class = "form-control" })
+    </div>
+
+    <h3>Розміри</h3>
+    <table class="table">
+        <tr>
+            <th>Символ розміру</th>
+            <th>Ціна</th>
+        </tr>
+        @for (var i = 0; i < Model.Sizes.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.EditorFor(model => model.Sizes[i].SizeSybmol, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Sizes[i].SizeSybmol, "", new { @class = "text-danger" })
+                </td>
+                <td>
+                    @Html.EditorFor(model => model.Sizes[i].Price, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Sizes[i].Price, "", new { @class = "text-danger" })
+                </td>
+            </tr>
+        }
+    </table>
+
+    <button id="addSize" type="button" class="btn btn-primary mb-2">Додати розмір</button>
+    
+    <div class="form-group">
+        <input type="submit" value="Створити" class="btn btn-primary" />
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Назад до списку", "Index")
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            var counter = @Model.Sizes.Count;
+            $("#addSize").on("click", function () {
+                var newRow = $("<tr>");
+                newRow.html('<td><input type="text" name="Sizes[' + counter + '].SizeSybmol" class="form-control" /></td>' +
+                    '<td><input type="number" name="Sizes[' + counter + '].Price" class="form-control" /></td>');
+                $("table").append(newRow);
+                counter++;
+            });
+        });
+    </script>
+}

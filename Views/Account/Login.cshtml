@@ -1,0 +1,25 @@
+﻿@model LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="position-absolute" style="top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h3 class="text-center">Login</h3>
+    @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+    {
+        @Html.HiddenFor(t => t.ReturnUrl)
+        <div class="w-100 pb-3">
+            @Html.DisplayNameFor(m => m.Username)
+            @Html.TextBoxFor(m => m.Username, new{ @class = "w-100" })
+
+        </div>
+        <div class="w-100 pb-3">
+            @Html.DisplayNameFor(m => m.Password)
+            @Html.PasswordFor(m => m.Password, new{ @class = "w-100" })
+        </div>
+        <input type="submit" value="Login" class="w-100 btn btn-success" />
+        @Html.ActionLink("Don't have an account? Register", "Register", "Account", null, new { @class = "w-100 btn btn-primary text-white mt-1" })
+        @Html.ValidationSummary()
+    }
+</div>
